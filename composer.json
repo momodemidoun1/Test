@@ -1,0 +1,15 @@
+{
+    "name": "mohamed/event",
+    "authors": [
+        {
+            "name": "Rached Mohamed",
+            "email": "momodemidoun1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Event\\" : "src/"
+        }
+    },
+    "require": {}
+}
